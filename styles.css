@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: bisque;
+    background-color: rgb(250, 237, 222);
   }
   
   header {
@@ -65,4 +65,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #333;
+    color: #fff;
   }
